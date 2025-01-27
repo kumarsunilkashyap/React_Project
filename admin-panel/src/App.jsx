@@ -4,7 +4,7 @@ import MenuPanel from './components/MenuPanel';
 import Footer from './components/Footer';
 import Dashboard from './pages/Dashboard';
 import Account from './pages/Account';
-import PasswordChange from './pages/PasswordChange';
+// import PasswordChange from './pages/PasswordChange';
 
 function App() {
   return (
